@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/rokgolez/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rokgolez" alt="rokgolez" /></a> </p>
 
-- 🌱 I’m currently learning **MySQL and Python**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **golezrok@gmail.com**
 
