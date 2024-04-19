@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I once cycled 2000km from Slovenia to Denmark**
 
--📊 **Tableau Projects**: [View My Tableau Projects](https://public.tableau.com/app/profile/rok.golez/vizzes)
+-  📊 **Tableau Projects**: (https://public.tableau.com/app/profile/rok.golez/vizzes)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
