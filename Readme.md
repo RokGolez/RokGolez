@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/rokgolez/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rokgolez" alt="rokgolez" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **golezrok@gmail.com**
+📫 How to reach me **golezrok@gmail.com**
 
-- ⚡ Fun fact **I once cycled 2000km from Slovenia to Denmark**
+⚡ Fun fact **I once cycled 2000km from Slovenia to Denmark**
 
--  📊 [**View My Tableau Projects**](https://public.tableau.com/app/profile/rok.golez/vizzes)
+📊 [**View My Tableau Projects**](https://public.tableau.com/app/profile/rok.golez/vizzes)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
