@@ -3,13 +3,7 @@
 
 <p align="left"> <a href="https://github.com/rokgolez/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rokgolez" alt="rokgolez" /></a> </p>
 
-🌱 I’m currently learning **Python**
-
-📫 How to reach me **golezrok@gmail.com**
-
-⚡ Fun fact **I once cycled 2000km from Slovenia to Denmark**
-
-📊  [**View My Tableau Projects**](https://public.tableau.com/app/profile/rok.golez/vizzes)
+🌱 I’m currently learning **Python** and building my first game in Pygame
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
