@@ -1,8 +1,3 @@
-<h1 align="center">Hi 👋, I'm Rok</h1>
-<h3 align="center">Data Analyst looking for my first job in Data</h3>
-
-<p align="left"> <a href="https://github.com/rokgolez/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rokgolez" alt="rokgolez" /></a> </p>
-
 🌱 I’m currently learning **Python** and building my first game in Pygame
 
 <h3 align="left">Connect with me:</h3>
